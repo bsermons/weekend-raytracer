@@ -2,3 +2,4 @@ source https://nuget.org/api/v2
 
 nuget MathNet.Numerics prerelease
 nuget MathNet.Numerics.FSharp prerelease
+nuget System.Drawing.Common
